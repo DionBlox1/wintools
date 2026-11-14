@@ -58,7 +58,7 @@ Set-ExecutionPolicy Bypass -Scope Process
 ### Option 2: Download and execute in memory with `irm | iex`
 
 ```powershell
-irm https://raw.githubusercontent.com/<your-user>/<your-repo>/main/WinUpdateMultiTool/WinUpdate_MultiTool.ps1 | iex
+irm https://raw.githubusercontent.com/DionBlox1/wintools/main/WinUpdateMultiTool/WinUpdate_MultiTool.ps1 | iex
 ```
 
 If you are using a different GitHub repository path, replace the URL with the correct raw GitHub link.
